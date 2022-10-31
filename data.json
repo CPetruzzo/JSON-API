@@ -1,0 +1,6 @@
+{
+    "name": "Facundo",
+    "lastName": "Wegher",
+    "age": 32,
+    "profession": ["engineer", "fullstack developer"]
+}
